@@ -1,0 +1,27 @@
+{
+  "name": "express-js-server-side-framework-chepkirui-2025",
+  "version": "1.0.0",
+  "description": "A complete RESTful API built with Express.js featuring custom middleware, error handling, authentication, filtering, pagination, and search capabilities. Built with a modular, scalable architecture following MVC pattern.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-Chepkirui-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-Chepkirui-2025/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-Chepkirui-2025#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "uuid": "^8.3.2"
+  }
+}
